@@ -1,0 +1,21 @@
+.bold {
+  font-weight: bold;
+}
+
+.pinemooncolor {
+  color: rgb(207, 195, 216);
+}
+
+
+.navbar-light .navbar-brand {
+    color: rgb(207, 195, 216);
+}
+
+
+.navbar-light .nav-item {
+    color: rgb(207, 195, 216);
+}
+
+.darker-img {
+  filter: brightness(75%);
+}
